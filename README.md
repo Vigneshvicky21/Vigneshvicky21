@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vigneshvicky21
-- 👀 I’m skilled at html, css, javascript, bootstrap
-- 🌱 I’m currently learning reactjs, python, MySQL
+- 👀 I’m skilled at front end technolegy
+- 🌱 I’m currently working as angular developer
 - 💞️ I’m looking to collaborate on good company
 - 📫 How to reach me 9361427180
 
